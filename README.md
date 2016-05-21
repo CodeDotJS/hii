@@ -16,7 +16,7 @@ $ npm install --global hii
 $ hi
 ```
 
-## Screenshot
+## Demo
 
 [![hi](http://rishigiri.com/github/hi.gif)](https://github.com/CodeDotJS/hii)
 

@@ -1,0 +1,47 @@
+{
+  "name": "hii",
+  "version": "1.0.0",
+  "description": "Turns your console into a strange girl.",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codedotjs/hii.git"
+  },
+  "author": "Rishi Giri <rushforlinux@gmail.com> (rishigiri.com)",
+  "bin": {
+    "hi": "cli.js"
+  },
+  "engines": {
+    "node": ">=4"
+  },
+  "scripts": {
+    "test": "xo && ava"
+  },
+  "files": [
+    "cli.js"
+  ],
+  "keywords": [
+    "girl",
+    "hi",
+    "console",
+    "what",
+    "hey",
+    "reply"
+  ],
+  "dependencies": {
+    "colors": "*"
+  },
+  "devDependencies": {
+    "ava": "*",
+    "pify": "^2.2.0",
+    "xo": "*"
+  },
+  "xo": {
+    "esnext": true
+  },
+  "bugs": {
+    "url": "https://github.com/codedotjs/hii/issues"
+  },
+  "homepage": "https://github.com/codedotjs/hii#readme",
+  "main": "cli.js"
+}

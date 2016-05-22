@@ -33,7 +33,7 @@
   },
   "devDependencies": {
     "ava": "*",
-    "pify": "^2.2.0",
+    "execa": "^0.2.2",
     "xo": "*"
   },
   "xo": {

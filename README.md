@@ -18,7 +18,9 @@ $ hi
 
 ## Demo
 
-[![hi](http://rishigiri.com/github/hi.gif)](https://github.com/CodeDotJS/hii)
+<p align="center">
+	<img src="https://raw.githubusercontent.com/rishigiridotcom/rishigiri.com/442a0c9aa92e7f5d8bf110c274c8f3c2079edf3e/github/hey.jpg">
+</p>
 
 ## License
 
